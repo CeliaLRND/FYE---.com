@@ -29,8 +29,15 @@ hgroup, menu, nav, section, summary {
 .instruction-en {
     font-weight: 200;
     font-size: 1.5em;
-    margin: 20px;
+    margin: 20 20 10 20;
     letter-spacing: 2px;
+}
+
+.instruction-zh {
+    font-weight: 200;
+    font-size: 1.2em;
+    margin-bottom: 0 20 20 20;
+    letter-spacing: 1px;
 }
 
 .locations {
